@@ -16,3 +16,7 @@ I have used other third party APIs to demonstrate the functionality of this basi
 <hr />
 <h3>Screenshots</h3>
 <img src="https://user-images.githubusercontent.com/117972097/224680232-1daf8262-ad08-4bfb-b3b7-57ef4135efd2.png" width="300">
+<img src="https://user-images.githubusercontent.com/117972097/224696771-05460779-05ec-4d58-a8d7-5a75da870014.png" width="300">
+<img src="https://user-images.githubusercontent.com/117972097/224697675-8408b560-5c95-4810-8bc1-12853d304d33.png" width="300">
+<img src="https://user-images.githubusercontent.com/117972097/224698667-34e3c132-bc22-450a-87d6-4b7de3ca822d.png" width="300">
+<img src="https://user-images.githubusercontent.com/117972097/224699639-5f6eda2d-2c6f-4b3a-ae43-d147a89cbd9e.png" width="300">
