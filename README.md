@@ -15,4 +15,4 @@ I have used other third party APIs to demonstrate the functionality of this basi
 
 <hr />
 <h3>Screenshots</h3>
-<img src="https://www.dropbox.com/s/011ad1afrsln8qx/Screenshot_20221124-201706.png?dl=0">
+<img src="https://user-images.githubusercontent.com/117972097/224680232-1daf8262-ad08-4bfb-b3b7-57ef4135efd2.png" width="300">
