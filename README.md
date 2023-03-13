@@ -12,3 +12,7 @@ I have used other third party APIs to demonstrate the functionality of this basi
 <li>After you have installed the requirements, run whats_bot.py</li>
 <li> Make sure you have activated your twilio sandbox before you run the bot, otherwise it will not work.</li>
 </div>
+
+<hr />
+<h3>Screenshots</h3>
+<img src="https://www.dropbox.com/s/011ad1afrsln8qx/Screenshot_20221124-201706.png?dl=0">
