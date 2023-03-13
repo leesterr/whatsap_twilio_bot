@@ -8,10 +8,13 @@ I have used other third party APIs to demonstrate the functionality of this basi
 </ul>
 <hr />
 <div>
+<ul>
 <li>First of all you need to clone this repository and install the requirements by running pip install -r requirements.txt. make sure you are in the virtual environment.</li>
 <li>After you have installed the requirements, run whats_bot.py</li>
 <li> Make sure you have activated your twilio sandbox before you run the bot, otherwise it will not work.</li>
+<ul>
 </div>
+<p>If you don't know how to activate twilio sandbox please check <a href="https://youtu.be/Su8ui2uhipI">Here</a></p>
 
 <hr />
 <h3>Screenshots</h3>
